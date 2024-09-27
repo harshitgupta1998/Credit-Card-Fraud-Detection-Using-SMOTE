@@ -1,4 +1,0 @@
-Isolation Forest has a 99.75% more accurate than LOF of 99.71% 
-When comparing error precision & recall for 2 models , the Isolation Forest performed better than the LOF as we can see that the detection of fraud cases.
-So overall Isolation Forest Method performed much better in determining the fraud cases.
-I further plan to explore neural autoencoder which could be here. Since, the number of fraud cases is neglible when compared to normal cases.
